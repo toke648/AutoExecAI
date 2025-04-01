@@ -1,5 +1,12 @@
 # AI Command Hub
 
+[![license](https://img.shields.io/github/license/toke648/AutoExecAI)](https://github.com/toke648/AutoExecAI/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+
+参与讨论
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kwCY2wFPNh)
+
 [**English**](En_README.md) | **简体中文**
 
 **AutoExecAI** 是一个基于 AI 的智能工具，能够分析用户的需求并自动生成终端命令，执行命令后获取结果，并根据需要继续执行下一步命令。它通过自然语言处理（NLP）理解用户需求，并将其转换为可执行的命令。每次执行命令前，都会展示生成的命令供用户确认是否执行。支持多轮对话，直到任务完成。
