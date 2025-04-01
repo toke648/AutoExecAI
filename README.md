@@ -3,8 +3,6 @@
 [![license](https://img.shields.io/github/license/toke648/AutoExecAI)](https://github.com/toke648/AutoExecAI/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
-参与讨论
-
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kwCY2wFPNh)
 
 [**English**](En_README.md) | **简体中文**
